@@ -1,0 +1,12 @@
+{
+  "name": "ls",
+  "version": "ls",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "spongemock": "^0.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^9.4.7",
+    "ts-node": "^5.0.1"
+  }
+}

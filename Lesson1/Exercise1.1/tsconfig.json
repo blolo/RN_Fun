@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "lib",
+    "types": ["node"]
+
+  },
+  "lib": ["es2015", "dom"],
+  "types": [
+    "node",
+    "jasmine"
+  ]
+
+}
