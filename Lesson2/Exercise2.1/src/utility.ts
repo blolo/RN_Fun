@@ -62,3 +62,8 @@ export function stringRepresentationOfDigits(num: number)  {
 console.log(textValue); 
 
 }
+
+export function dateBasedOnNumber(date: Date, num: number): Date {
+    date.setDate(date.getDate() - num);
+    return date;
+}
